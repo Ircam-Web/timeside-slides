@@ -541,3 +541,7 @@ img[alt=image-60]
     width: 100%;
     height: 80%;
 }
+.large-list li
+{
+    font-size: 1.5em;
+}
